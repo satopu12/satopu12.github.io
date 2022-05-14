@@ -1,6 +1,7 @@
 body {
     margin: 40px;
-    background-color: #74b3b5;
+    background: #1e90ff linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;
+
   }
   
   .sidebar {
